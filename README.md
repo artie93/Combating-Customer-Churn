@@ -1,7 +1,5 @@
 # Combating-Customer-Churn
 
-In this project, I used machine learning, both supervised and unsupervised, to investigate customer churn in a fictional streaming platform.
+Through this project, I showcased my skills in data analysis and data science by leveraging machine learning techniques to enhance subscriber retention strategies for a fictional educational video streaming platform. I successfully prepared and processed the subscriber dataset, transforming categorical features like age groups into numerical values and scaling numerical features for modeling. Using classification models such as Logistic Regression, Decision Tree Classifier, and Random Forest Classifier, I achieved a high accuracy rate of 92.5% in predicting subscriber churn. Furthermore, I applied unsupervised learning techniques like KMeans clustering to uncover distinct subscriber segments based on engagement patterns, providing actionable insights for targeted marketing campaigns. This project not only highlighted my technical expertise in Python and machine learning libraries but also underscored my ability to derive valuable business insights to drive strategic decision-making and enhance customer lifecycle management.
 
-Additionally, I have applied customer segmentation techniques to unravel patterns of customer behavior that can be valuable for targeted 
-marketing when combating churn.
 ![What-is-Customer-Churn-featured](https://github.com/artie93/Combating-Customer-Churn/assets/115626610/5fd39347-c908-4c23-8adf-2d49480996f8)
